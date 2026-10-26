@@ -9,7 +9,7 @@ ai-chat {
   }
   
   #chatMessages {
-    height: 260px;
+    height: 350px;
     overflow-y: auto;
     background: #fff;
     padding: 15px;
