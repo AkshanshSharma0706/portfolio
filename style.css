@@ -154,3 +154,6 @@ a:focus {
   object-fit: cover;
   display: block;
 }
+.ai-chat h2 {
+  text-align: center;
+}
