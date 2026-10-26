@@ -1,5 +1,5 @@
 const CONFIG = {
-    apiKey: "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",
+    apiKey: "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",
     baseUrl: "https://api.groq.com/openai/v1",
     model: "llama-3.1-8b-instant"
   
