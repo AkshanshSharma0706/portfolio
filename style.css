@@ -157,3 +157,7 @@ a:focus {
 .ai-chat h2 {
   text-align: center;
 }
+.ai-chat h2,
+.ai-chat p {
+  text-align: center;
+}
